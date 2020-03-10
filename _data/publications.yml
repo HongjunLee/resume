@@ -1,4 +1,31 @@
 # Publications
-# Organizational leadership
-- publication: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- publication: Blind-Spot Detection using Sensor Fusion of Vision and Radar (IEIE 2016)
+  description: **H. Lee**, M. Ra, J. K. Suhr, H. G. Jung, W.-Y. Kim
+  
+- publication: Color Correction Method for Heterogeneous Multi-Camera System using Iterative Clustering (IWAIT 2017)
+  description: H. Lee, M. Ra, W.-Y. Kim
+  
+- publication: SelfID_How to Make Personal ID Photo using Selfie (ICEIC 2018)
+  description: J. Yu, H. Lee, W.-Y. Kim
+  
+- publication: Paved and Unpaved Road Segmentation using Deep Neural Network (ACPR Workshop 2019)
+  description: D. Lee, S. Kim, H. Lee, W.-Y. Kim
+  
+- publication: Start-End Time Detection for Automatic Baseball Pitching Trajectory Analysis (ICEIC 2019)
+  description: H. Lee, J. Kim, J. Kim, J. Yu, W.-Y. Kim
+  
+- publication: Camera-LiDAR Calibration using ICP-based Automatic Plane Extraction Method (IWAIT 2020)
+  description: S. Jung, J. Kim, H. Lee, S. Kim, W.-Y. Kim
+  
+- publication: Fully Automatic Pitching Location Analysis System using High-Speed Cameras (ICEIC 2020)
+  description: E. Cho, H. Lee, J. Kim, J. Kim, W.-Y. Kim
+  
+- publication: A Method for Measuring Baseball Position at the Strike Zone (ICEIC 2020)
+  description: H. Lee, J. Kim, J. Kim, W.-Y. Kim
+  
+- publication: Precise 3D Baseball Pitching Trajectory Estimation using Multiple Unsynchronized Cameras (IEEE ACCESS, 2019)
+  description: J. Kim, M. Ra, H. Lee, J. Kim, W.-Y. Kim
+
+- publication: Nighttime Data Augmentation using GAN for Improving Blind-Spot Detection (IEEE ACCESS, 2020)
+  description: H. Lee, M. Ra, W.-Y. Kim
+    
