@@ -134,6 +134,24 @@
       </section>
       <!-- end Skills -->
       {% endif %}
+    
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+        {% for publication in site.data.publications %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ publication.publication }}</h4>
+          <p class="resume-item-copy">{{ publication.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Publications -->
+      {% endif %}
 
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
