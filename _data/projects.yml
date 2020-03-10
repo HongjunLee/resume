@@ -1,16 +1,32 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Road Surface Condition Detection using Environmental and In-Vehicle Sensors
+  role: Korea Evaluation Institute of Industrial Technology (KEIT)
+  duration: 2018 &mdash; Present
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Stereo Camera-based Baseball Pitching Trajectory Reconstruction System
+  role: Ministry of Culture, Sports and Tourism
+  duration: 2018 &mdash; 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+- project: Structured Light-based Wearable Virtual Keyboard
+  role: Hanyang University
+  duration: 2017
+  # url: "#"
+  #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+- project: Urinalysis using Mobile Phone Camera
+  role: Ministry of Science, ICT and Future Planning
+  duration: 2016 &mdash; 2017
+  # url: "#"
+  #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+
+- project: Blind-Spot Detection using Sensor Fusion of Vision and Radar
+  role: Hyundai Motor Co., Ltd.
+  duration: 2015 &mdash; 2016
+  # url: "#"
+  #description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
